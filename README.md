@@ -33,8 +33,8 @@
 <img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white"/>
 <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white"/>
 </p>
-<p align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rcarmen-btc&theme=blueberry&show_icons=true)
-
+  
+<p align="center" >
+<img  src="https://github-readme-stats.vercel.app/api?username=rcarmen-btc&theme=blueberry&show_icons=true"/>
 </p>
