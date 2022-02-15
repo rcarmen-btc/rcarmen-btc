@@ -10,6 +10,17 @@
           "type": "markdown",
           "state": {
             "file": "README.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "afdb02f23ec41270",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
             "mode": "preview"
           }
         }

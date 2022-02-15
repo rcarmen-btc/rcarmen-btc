@@ -2,9 +2,9 @@
 <img src="https://github.com/rcarmen-btc/rcarmen-btc/blob/main/riserlarenss%20(2).gif" alt="Databay showcase gif" title="Databay showcase gif" width="500"  align="middle"/>
 </p>
 
-<div> 
+<div  id="container"> 
 	
-<div>
+<div id="left">
 <p>
 <h4>Operating systems</h4>
 <p>
