@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/rcarmen-btc/rcarmen-btc/blob/main/riserlarenss%20(2).gif" alt="Databay showcase gif" title="Databay showcase gif" width="500"  align="middle"/>
+<img src="https://github.com/rcarmen-btc/rcarmen-btc/blob/main/riserlarenss%20(2).gif" alt="Databay showcase gif" title="Databay showcase gif" width="1000"  align="middle"/>
 </p>
 
 <p>
