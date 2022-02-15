@@ -1,6 +1,6 @@
 # HI
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rcarmen-btc&theme=github_dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rcarmen-btc&theme=blueberry&show_icons=true)
 
 
 
