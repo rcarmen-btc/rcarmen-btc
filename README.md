@@ -1,4 +1,7 @@
 # OS
+<p align="center">
+<img src="https://github.com/rcarmen-btc/rcarmen-btc/blob/main/riserlarenss%20(2).gif" alt="Databay showcase gif" title="Databay showcase gif" width="500"  align="middle"/>
+</p>
 <p> 
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -14,9 +17,7 @@
 </p>
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rcarmen-btc&theme=blue-green)
-<p align="centre">
-<img src="https://github.com/rcarmen-btc/rcarmen-btc/blob/main/riserlarenss%20(2).gif" alt="Databay showcase gif" title="Databay showcase gif" width="500"  align="middle"/>
-</p>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rcarmen-btc&theme=blueberry&show_icons=true)
 
