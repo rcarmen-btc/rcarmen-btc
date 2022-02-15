@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "6fb305430730da6d",
+    "type": "split",
+    "children": [
+      {
+        "id": "54704f44bda0913e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "89b2fb55d109c617",
+    "type": "split",
+    "children": [
+      {
+        "id": "245de990c35a3de7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "787b2fe7a6fd06d4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2c940e6a5dd5c864",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 286.00000190734863
+  },
+  "right": {
+    "id": "f6216cc02db6db5f",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ecc5bd9ded173ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1fdd63e20d149211",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "54704f44bda0913e",
+  "lastOpenFiles": [
+    "README.md",
+    "riserlarenss.gif"
+  ]
+}
