@@ -4,17 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "be7a4e9ae7cdd135",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "afdb02f23ec41270",
         "type": "leaf",
         "state": {
@@ -97,7 +86,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "be7a4e9ae7cdd135",
+  "active": "afdb02f23ec41270",
   "lastOpenFiles": [
     "README.md",
     "riserlarenss.gif"
