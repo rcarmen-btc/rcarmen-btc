@@ -25,7 +25,7 @@
 <p>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 	
-	<img hight="400" width="420" alt="GIF" align="right" src="http://github-readme-streak-stats.herokuapp.com?user=rcarmen-btc&theme=dark&date_format=M%20j%5B%2C%20Y%5D"/>
+<img hight="400" width="420" alt="GIF" align="right" src="http://github-readme-streak-stats.herokuapp.com?user=rcarmen-btc&theme=dark&date_format=M%20j%5B%2C%20Y%5D"/>
 	
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 </p>
