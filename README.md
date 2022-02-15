@@ -39,7 +39,7 @@
 <p align="center">
 </div>
 
-<div>
+<div id="right" >
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rcarmen-btc&theme=blueberry&show_icons=true)
 
