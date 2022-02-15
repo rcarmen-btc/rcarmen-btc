@@ -1,4 +1,4 @@
-# HI
+![kikki](https://github.com/rcarmen-btc/rcarmen-btc/blob/main/riserlarenss.gif)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rcarmen-btc&theme=blueberry&show_icons=true)
 
