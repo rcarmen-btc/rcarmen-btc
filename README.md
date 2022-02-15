@@ -14,9 +14,9 @@
 </p>
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rcarmen-btc&theme=blue-green)
-
+<p align="centre">
 <img src="https://github.com/rcarmen-btc/rcarmen-btc/blob/main/riserlarenss%20(2).gif" alt="Databay showcase gif" title="Databay showcase gif" width="500"  align="middle"/>
-
+</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rcarmen-btc&theme=blueberry&show_icons=true)
 
