@@ -12,8 +12,8 @@
 <img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white"/>
 
 </p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcarmen-btc&theme=blue-green"/>
- 
+
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rcarmen-btc&theme=blue-green)
 
 <img src="https://github.com/rcarmen-btc/rcarmen-btc/blob/main/riserlarenss%20(2).gif" alt="Databay showcase gif" title="Databay showcase gif" width="500"  align="middle"/>
 
