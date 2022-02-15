@@ -1,7 +1,8 @@
 <p align="center">
   
  # OS
-  https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Databay showcase gif" title="Databay showcase gif" width="500"  align="middle"/>
+  
   https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
   https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white
   https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
