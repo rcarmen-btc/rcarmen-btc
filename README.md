@@ -2,9 +2,6 @@
 <img src="https://github.com/rcarmen-btc/rcarmen-btc/blob/main/riserlarenss.gif" alt="I love u so much, Anya!" title="I love u so much, Anya!" width="1000"  align="middle"/>
 </p>
 
-[![rcarmen's 42 stats](https://badge42.herokuapp.com/api/stats/rcarmen?privacyName=true&)](https://github.com/JaeSeoKim/badge42)
-
-
 <p>
 <h4>Operating systems</h4>
 <p>
@@ -17,25 +14,27 @@
 <h4>For web</h4>
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img hight="400" width="420" alt="GIF" align="right" src="https://github-readme-stats.vercel.app/api?username=rcarmen-btc&theme=dark&show_icons=true"/>
+
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 </p>
 <h4>For system</h4>
 <p>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img hight="400" width="420" alt="GIF" align="right" src="https://github-readme-stats.vercel.app/api?username=rcarmen-btc&theme=dark&show_icons=true&hide_border=true"/>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </p>
 <h4>For mobile</h4>
 <p>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-	
-<img hight="400" width="420" alt="GIF" align="right" src="http://github-readme-streak-stats.herokuapp.com?user=rcarmen-btc&theme=dark&date_format=M%20j%5B%2C%20Y%5D"/>
-	
+
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 </p>
 <h4>Databases</h4>
 <p>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+		
+<img hight="400" width="420" alt="GIF" align="right" src="http://github-readme-streak-stats.herokuapp.com?user=rcarmen-btc&theme=dark&date_format=M%20j%5B%2C%20Y%5D&hide_border=true"/>
+	
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 <h4>Music</h4>
