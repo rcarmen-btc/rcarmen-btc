@@ -2,7 +2,7 @@
 <img src="https://github.com/rcarmen-btc/rcarmen-btc/blob/main/riserlarenss.gif" alt="I love u so much, Anya!" title="I love u so much, Anya!" width="1000"  align="middle"/>
 </p>
 
-[![rcarmen's 42 stats](https://badge42.herokuapp.com/api/stats/suzumaki?privacyName=true&)](https://github.com/JaeSeoKim/badge42)
+[![rcarmen's 42 stats](https://badge42.herokuapp.com/api/stats/rcarmen?privacyName=true&)](https://github.com/JaeSeoKim/badge42)
 
 
 <p>
