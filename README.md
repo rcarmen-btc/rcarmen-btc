@@ -1,13 +1,13 @@
 <p align="center">
 <img src="https://github.com/rcarmen-btc/rcarmen-btc/blob/main/riserlarenss.gif" alt="I love u so much, Anya!" title="I love u so much, Anya!" width="1000"  align="middle"/>
 </p>
+<img hight="400" width="420" alt="GIF" src="https://www.codewars.com/users/riserr/badges/large"/>
+
 
 <p>
 <h4>Operating systems</h4>
 <p>
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
-	
-<img hight="400" width="420" alt="GIF" align="right" src="https://www.codewars.com/users/riserr/badges/large"/>
 	
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 </p>
