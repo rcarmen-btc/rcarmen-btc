@@ -7,7 +7,7 @@
 <p>
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
 	
-<img hight="400" width="420" alt="GIF" align="right" src="https://badge42.herokuapp.com/api/stats/rcarmen?privacyName=true&"/>
+<img hight="400" width="420" alt="GIF" align="right" src="https://www.codewars.com/users/riserr/badges/large"/>
 	
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 </p>
