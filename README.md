@@ -19,7 +19,10 @@
 </p>
 <h4>For system</h4>
 <p>
+	
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/RUST-00599C?style=for-the-badge&logo=rust&logoColor=white"/>
+
 <img hight="400" width="420" alt="GIF" align="right" src="https://github-readme-stats.vercel.app/api?username=rcarmen-btc&theme=dark&show_icons=true&hide_border=true"/>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </p>
