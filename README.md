@@ -16,8 +16,7 @@
 
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 	
-![Leetcode Stats](https://leetcode.card.workers.dev/?username=rcarmen-btc)
-	
+<img hight="400" width="420" alt="GIF" align="right" src="https://leetcode.card.workers.dev/?username=rcarmen-btc"/>
 </p>
 <h4>For system</h4>
 <p>
