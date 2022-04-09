@@ -3,7 +3,6 @@
 </p>
 <img hight="400" width="420" alt="GIF" src="https://www.codewars.com/users/riserlarenss/badges/large"/>
 
-![Leetcode Stats](https://leetcode.card.workers.dev/?username=rcarmen-btc)
 <p>
 <h4>Operating systems</h4>
 <p>
@@ -19,6 +18,7 @@
 </p>
 <h4>For system</h4>
 <p>
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=rcarmen-btc)
 	
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/RUST-00599C?style=for-the-badge&logo=rust&logoColor=white"/>
