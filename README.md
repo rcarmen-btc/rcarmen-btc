@@ -3,7 +3,7 @@
 </p>
 <img hight="400" width="420" alt="GIF" src="https://www.codewars.com/users/riserlarenss/badges/large"/>
 
-
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=rcarmen-btc)
 <p>
 <h4>Operating systems</h4>
 <p>
