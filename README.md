@@ -3,6 +3,6 @@
 </p>
 
 <p align="center">
-<img hight="400" width="420" alt="GIF" align="right" src="https://leetcode.card.workers.dev/?username=rcarmen-btc"/>
+<img hight="400" width="420" alt="GIF" src="https://leetcode.card.workers.dev/?username=rcarmen-btc"/>
 </p>
 
