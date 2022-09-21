@@ -18,7 +18,6 @@
 
 - ⚡ Fun fact **I love cold side of pillow and I have one superpower, do u wanna know what it is? Text me...**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
