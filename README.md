@@ -3,7 +3,7 @@
   <br>
   <hr>
   <div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <img src="https://img.shields.io/badge/Telegram-blue?style=social&logo=telegram&logoColor=white" alt="Telegram Badge"/>
 </div>
 </div>
