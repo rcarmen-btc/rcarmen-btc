@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **meaning of life**
 
-- 📫 How to reach me **E-mail: riserlarenss@gmail.com | TG: @riserlarenss**
+- 📫 How to reach me **E-mail: riserlarenss@gmail.com | TG: <a href="https://t.me/riserlarenss">@riserlarenss</a>**
 
 - 📄 Know about my experiences [resume](https://drive.google.com/file/d/1c2LC9iCd6zYxs3V-JA002l4ahVUqW1f-/view?usp=sharing)
 
