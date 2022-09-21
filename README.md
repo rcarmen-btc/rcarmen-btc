@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **E-mail: riserlarenss@gmail.com | TG: @riserlarenss**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1c2LC9iCd6zYxs3V-JA002l4ahVUqW1f-/view?usp=sharing](https://drive.google.com/file/d/1c2LC9iCd6zYxs3V-JA002l4ahVUqW1f-/view?usp=sharing)
+- 📄 Know about my experiences [resume][https://drive.google.com/file/d/1c2LC9iCd6zYxs3V-JA002l4ahVUqW1f-/view?usp=sharing](https://drive.google.com/file/d/1c2LC9iCd6zYxs3V-JA002l4ahVUqW1f-/view?usp=sharing)
 
 - ⚡ Fun fact **I love cold side of pillow and I have one superpower, do u wanna know what it is? Text me**
 
