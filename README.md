@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **FastAPI, Aiogram, Docker, ect...**
 
-- 👯 I’m looking to collaborate on [workbot](https://github.com/rcarmen-btc/workbot)
+- 👯 I’m looking to collaborate on [workbot](https://gitlab.com/RiserLA/workbot/-/tree/master)
 
 - 💬 Ask me about **meaning of life**
 
