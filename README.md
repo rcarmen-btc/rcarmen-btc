@@ -17,8 +17,8 @@
 - 📄 Know about my experiences [resume](https://drive.google.com/file/d/1c2LC9iCd6zYxs3V-JA002l4ahVUqW1f-/view?usp=sharing)
 
 - 📚 Books I've reading now:
-      - Python Tricks: The Book
-      - Using Asyncio in Python
+      <p>- Python Tricks: The Book</p>
+      <p>- Using Asyncio in Python</p>
 
 
 - ⚡ Fun fact **I love cold side of pillow and I have one superpower, do u wanna know what it is? Text me...**
