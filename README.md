@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [workbot](https://gitlab.com/RiserLA/workbot/-/tree/master) (GitLab CI/CD, Docker, Python, Aiogram, CentOS on my own home server)
 
-- 🌱 I’m currently learning **FastAPI, Aiogram, Docker, ect...**
+- 🌱 I’m currently learning **FastAPI, Aiogram, Docker, GitLab CI/CD ect...**
 
 - 👯 I’m looking to collaborate on [workbot](https://gitlab.com/RiserLA/workbot/-/tree/master)
 
@@ -15,6 +15,11 @@
 - 📫 How to reach me **E-mail: riserlarenss@gmail.com | TG: <a href="https://t.me/riserlarenss">@riserlarenss</a>**
 
 - 📄 Know about my experiences [resume](https://drive.google.com/file/d/1c2LC9iCd6zYxs3V-JA002l4ahVUqW1f-/view?usp=sharing)
+
+- 📚 Books I've reading now:
+      - Python Tricks: The Book
+      - Using Asyncio in Python
+
 
 - ⚡ Fun fact **I love cold side of pillow and I have one superpower, do u wanna know what it is? Text me...**
 
