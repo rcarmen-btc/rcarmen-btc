@@ -19,6 +19,7 @@
 - 📚 Books I've reading now:
       <p>- Python Tricks: The Book</p>
       <p>- Using Asyncio in Python</p>
+      <p>- [Компьютерные сети](https://github.com/rcarmen-btc/my-obsidian-notes/tree/master/Sam/1-HardSkills/Network/%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B5%D1%82%D0%B8)</p>
 
 
 - ⚡ Fun fact **I love cold side of pillow and I have one superpower, do u wanna know what it is? Text me...**
