@@ -17,9 +17,9 @@
 - 📄 Know about my experiences [resume](https://drive.google.com/file/d/1c2LC9iCd6zYxs3V-JA002l4ahVUqW1f-/view?usp=sharing)
 
 - 📚 Books I've reading now:
-      <p>- Python Tricks: The Book | [book](https://www.amazon.com/Python-Tricks-Buffet-Awesome-Features/dp/1775093301) | [notes](https://github.com/rcarmen-btc/my-obsidian-notes/tree/master/Sam/1-HardSkills/Programming-Languages/Python/Python%20Tricks%20%20The%20Book) |</p>
-      <p>- Using Asyncio in Python | [boot](https://www.oreilly.com/library/view/using-asyncio-in/9781492075325/) | [notes](https://github.com/rcarmen-btc/my-obsidian-notes/tree/master/Sam/1-HardSkills/Programming-Languages/Python/Using%20Asyncio%20in%20Python) |</p>
-      <p>- Компьютерные сети | [book](https://www.ozon.ru/product/kompyuternye-seti-printsipy-tehnologii-protokoly-yubileynoe-izdanie-olifer-natalya-olifer-211432410/?sh=ib-oLzSWDQ&tab=reviews) | [notes](https://github.com/rcarmen-btc/my-obsidian-notes/tree/master/Sam/1-HardSkills/Network/%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B5%D1%82%D0%B8) |</p>
+      <p>- Python Tricks: The Book ([book](https://www.amazon.com/Python-Tricks-Buffet-Awesome-Features/dp/1775093301) | [notes](https://github.com/rcarmen-btc/my-obsidian-notes/tree/master/Sam/1-HardSkills/Programming-Languages/Python/Python%20Tricks%20%20The%20Book))</p>
+      <p>- Using Asyncio in Python ([boot](https://www.oreilly.com/library/view/using-asyncio-in/9781492075325/) | [notes](https://github.com/rcarmen-btc/my-obsidian-notes/tree/master/Sam/1-HardSkills/Programming-Languages/Python/Using%20Asyncio%20in%20Python) )</p>
+      <p>- Компьютерные сети ([book](https://www.ozon.ru/product/kompyuternye-seti-printsipy-tehnologii-protokoly-yubileynoe-izdanie-olifer-natalya-olifer-211432410/?sh=ib-oLzSWDQ&tab=reviews) | [notes](https://github.com/rcarmen-btc/my-obsidian-notes/tree/master/Sam/1-HardSkills/Network/%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B5%D1%82%D0%B8))</p>
 
 
 - ⚡ Fun fact **I love cold side of pillow and I have one superpower, do u wanna know what it is? Text me...**
