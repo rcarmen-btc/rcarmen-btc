@@ -1,8 +1,5 @@
 <div id="header" align="center">
   <img src="https://github.com/rcarmen-btc/rcarmen-btc/blob/main/riserlarenss.gif" alt="I love u so much, Anya!" title="I love u so much, Anya!" width="800"  align="middle"/>
-  <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay
-  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/293&amp;{ ADD YOUR PARAMETERS HERE }">
-</iframe>
 </div>
 <h1 align="center">Hi 🌿</h1>
 <h3 align="center">Student of School21</h3>
