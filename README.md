@@ -41,4 +41,4 @@
 </div>
  -->
 
-[![SoundCloud](https://novatorem.vercel.app/api/spotify?background_color=ffffff&border_color=ff8800)](https://soundcloud.com/unsignedmusicz/lying-down-the-whole-day-mix?si=6b47b1fc7ebc4ca1bad082ba61a29a23&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+[![SoundCloud](https://novatorem.vercel.app/api/spotify?background_color=#333333&border_color=ff8800)](https://soundcloud.com/unsignedmusicz/lying-down-the-whole-day-mix?si=6b47b1fc7ebc4ca1bad082ba61a29a23&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
