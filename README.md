@@ -29,22 +29,11 @@
 
 - ⚡ Fun fact **I love cold side of а pillow and I have one superpower, do u wanna know what it is? Text me...**
 
-<img src="https://lite-story.com/wp-content/uploads/2020/10/parochki_s_logkostyu_vydelyayushchiyesya_iz_tolpy_11.jpg" alt="I love u so much, Anya!" title="I love u so much, Anya!" width="80"  align="middle"/>
-<img src="https://lite-story.com/wp-content/uploads/2020/10/parochki_s_logkostyu_vydelyayushchiyesya_iz_tolpy_11.jpg" alt="I love u so much, Anya!" title="I love u so much, Anya!" width="80"  align="middle"/>
-
-<img src="https://lite-story.com/wp-content/uploads/2020/10/parochki_s_logkostyu_vydelyayushchiyesya_iz_tolpy_11.jpg" alt="I love u so much, Anya!" title="I love u so much, Anya!" width="80"  align="middle"/>
-<img src="https://lite-story.com/wp-content/uploads/2020/10/parochki_s_logkostyu_vydelyayushchiyesya_iz_tolpy_11.jpg" alt="I love u so much, Anya!" title="I love u so much, Anya!" width="80"  align="middle"/>
-<img src="https://lite-story.com/wp-content/uploads/2020/10/parochki_s_logkostyu_vydelyayushchiyesya_iz_tolpy_11.jpg" alt="I love u so much, Anya!" title="I love u so much, Anya!" width="80"  align="middle"/>
-<img src="https://lite-story.com/wp-content/uploads/2020/10/parochki_s_logkostyu_vydelyayushchiyesya_iz_tolpy_11.jpg" alt="I love u so much, Anya!" title="I love u so much, Anya!" width="80"  align="middle"/>
-<img src="https://lite-story.com/wp-content/uploads/2020/10/parochki_s_logkostyu_vydelyayushchiyesya_iz_tolpy_11.jpg" alt="I love u so much, Anya!" title="I love u so much, Anya!" width="80"  align="middle"/>
-<img src="https://lite-story.com/wp-content/uploads/2020/10/parochki_s_logkostyu_vydelyayushchiyesya_iz_tolpy_11.jpg" alt="I love u so much, Anya!" title="I love u so much, Anya!" width="80"  align="middle"/>
-<img src="https://lite-story.com/wp-content/uploads/2020/10/parochki_s_logkostyu_vydelyayushchiyesya_iz_tolpy_11.jpg" alt="I love u so much, Anya!" title="I love u so much, Anya!" width="80"  align="middle"/>
-<img src="https://lite-story.com/wp-content/uploads/2020/10/parochki_s_logkostyu_vydelyayushchiyesya_iz_tolpy_11.jpg" alt="I love u so much, Anya!" title="I love u so much, Anya!" width="80"  align="middle"/>
-
 
 <p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<img src="https://lite-story.com/wp-content/uploads/2020/10/parochki_s_logkostyu_vydelyayushchiyesya_iz_tolpy_11.jpg" alt="I love u so much, Anya!" title="I love u so much, Anya!" width="40"  align="middle"/>
 
