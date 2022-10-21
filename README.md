@@ -30,6 +30,17 @@
 - ⚡ Fun fact **I love cold side of а pillow and I have one superpower, do u wanna know what it is? Text me...**
 
 <img src="https://lite-story.com/wp-content/uploads/2020/10/parochki_s_logkostyu_vydelyayushchiyesya_iz_tolpy_11.jpg" alt="I love u so much, Anya!" title="I love u so much, Anya!" width="80"  align="middle"/>
+<img src="https://lite-story.com/wp-content/uploads/2020/10/parochki_s_logkostyu_vydelyayushchiyesya_iz_tolpy_11.jpg" alt="I love u so much, Anya!" title="I love u so much, Anya!" width="80"  align="middle"/>
+
+<img src="https://lite-story.com/wp-content/uploads/2020/10/parochki_s_logkostyu_vydelyayushchiyesya_iz_tolpy_11.jpg" alt="I love u so much, Anya!" title="I love u so much, Anya!" width="80"  align="middle"/>
+<img src="https://lite-story.com/wp-content/uploads/2020/10/parochki_s_logkostyu_vydelyayushchiyesya_iz_tolpy_11.jpg" alt="I love u so much, Anya!" title="I love u so much, Anya!" width="80"  align="middle"/>
+<img src="https://lite-story.com/wp-content/uploads/2020/10/parochki_s_logkostyu_vydelyayushchiyesya_iz_tolpy_11.jpg" alt="I love u so much, Anya!" title="I love u so much, Anya!" width="80"  align="middle"/>
+<img src="https://lite-story.com/wp-content/uploads/2020/10/parochki_s_logkostyu_vydelyayushchiyesya_iz_tolpy_11.jpg" alt="I love u so much, Anya!" title="I love u so much, Anya!" width="80"  align="middle"/>
+<img src="https://lite-story.com/wp-content/uploads/2020/10/parochki_s_logkostyu_vydelyayushchiyesya_iz_tolpy_11.jpg" alt="I love u so much, Anya!" title="I love u so much, Anya!" width="80"  align="middle"/>
+<img src="https://lite-story.com/wp-content/uploads/2020/10/parochki_s_logkostyu_vydelyayushchiyesya_iz_tolpy_11.jpg" alt="I love u so much, Anya!" title="I love u so much, Anya!" width="80"  align="middle"/>
+<img src="https://lite-story.com/wp-content/uploads/2020/10/parochki_s_logkostyu_vydelyayushchiyesya_iz_tolpy_11.jpg" alt="I love u so much, Anya!" title="I love u so much, Anya!" width="80"  align="middle"/>
+<img src="https://lite-story.com/wp-content/uploads/2020/10/parochki_s_logkostyu_vydelyayushchiyesya_iz_tolpy_11.jpg" alt="I love u so much, Anya!" title="I love u so much, Anya!" width="80"  align="middle"/>
+
 
 <p align="left">
 </p>
