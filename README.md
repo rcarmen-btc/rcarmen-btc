@@ -36,4 +36,9 @@
 
 
 
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/395248104&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/unsignedmusicz" title="UnsignedMusicz" target="_blank" style="color: #cccccc; text-decoration: none;">UnsignedMusicz</a> · <a href="https://soundcloud.com/unsignedmusicz/lying-down-the-whole-day-mix" title="lying down the whole day mix" target="_blank" style="color: #cccccc; text-decoration: none;">lying down the whole day mix</a></div>
+<!-- <div align="center">
+  <a href="https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE"><img src="https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" alt="IMAGE ALT TEXT"></a>
+</div>
+ -->
+
+![Spotify](https://novatorem.vercel.app/api/soundcloud?background_color=0d1117&border_color=ffffff)](https://soundcloud.com/unsignedmusicz/lying-down-the-whole-day-mix?si=6b47b1fc7ebc4ca1bad082ba61a29a23&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
