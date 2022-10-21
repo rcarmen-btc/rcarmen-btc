@@ -1,7 +1,6 @@
 <div id="header" align="center">
   <img src="https://github.com/rcarmen-btc/rcarmen-btc/blob/main/riserlarenss.gif" alt="I love u so much, Anya!" title="I love u so much, Anya!" width="800"  align="middle"/>
-  
-  ![image](https://lite-story.com/wp-content/uploads/2020/10/parochki_s_logkostyu_vydelyayushchiyesya_iz_tolpy_11.jpg)
+   <img src="https://lite-story.com/wp-content/uploads/2020/10/parochki_s_logkostyu_vydelyayushchiyesya_iz_tolpy_11.jpg" alt="I love u so much, Anya!" title="I love u so much, Anya!" width="100"  align="middle"/>
 </div>
 <h1 align="center">Hi 🌿</h1>
 <h3 align="center">Student of School21</h3>
