@@ -41,4 +41,4 @@
 </div>
  -->
 
-[![Spotify]([https://novatorem.vercel.app/api/soundcloud?background_color=0d1117&border_color=ffffff)](https://soundcloud.com/unsignedmusicz/lying-down-the-whole-day-mix?si=6b47b1fc7ebc4ca1bad082ba61a29a23&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
