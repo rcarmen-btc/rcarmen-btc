@@ -1,10 +1,9 @@
 <div id="header" align="center">
   <img src="https://github.com/rcarmen-btc/rcarmen-btc/blob/main/riserlarenss.gif" alt="I love u so much, Anya!" title="I love u so much, Anya!" width="800"  align="middle"/>
 
-<h1 align="center">Hi
-    <img src="https://lite-story.com/wp-content/uploads/2020/10/parochki_s_logkostyu_vydelyayushchiyesya_iz_tolpy_11.jpg" alt="I love u so much, Anya!" title="I love u so much, Anya!" width="80"  align="middle"/>
-</div> 
- 🌿</h1>
+<h1 align="center">Hi 🌿</h1>
+    
+</div>
 <h3 align="center">Student of School21</h3>
 
 - 🔭 I’m currently working on [workbot](https://gitlab.com/RiserLA/workbot/-/tree/master) (GitLab CI/CD, Docker, Python, Aiogram, CentOS on my own home server)
@@ -29,6 +28,8 @@
       <p>- Docker + Ansible - с нуля, деплой и управление Swarm ( [course](https://www.udemy.com/course/docker-ansible) | [notes](https://github.com/rcarmen-btc/my-obsidian-notes/tree/master/Sam/1-HardSkills/DevOps/UDockerAnsible) )</p>
 
 - ⚡ Fun fact **I love cold side of а pillow and I have one superpower, do u wanna know what it is? Text me...**
+
+<img src="https://lite-story.com/wp-content/uploads/2020/10/parochki_s_logkostyu_vydelyayushchiyesya_iz_tolpy_11.jpg" alt="I love u so much, Anya!" title="I love u so much, Anya!" width="80"  align="middle"/>
 
 <p align="left">
 </p>
