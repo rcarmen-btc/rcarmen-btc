@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **E-mail: riserlarenss@gmail.com | TG: <a href="https://t.me/riserlarenss">@riserlarenss</a>**
 
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/15WQrdMDZ4UQ02ePB4QduGymH5D5IxhER/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/15WQrdMDZ4UQ02ePB4QduGymH5D5IxhER/view?usp=sharing)
 
 - 📚 Books I've reading now:
       <p>- Python Tricks: The Book ( [book](https://www.amazon.com/Python-Tricks-Buffet-Awesome-Features/dp/1775093301) | [notes](https://github.com/rcarmen-btc/my-obsidian-notes/tree/master/Sam/1-HardSkills/Programming-Languages/Python/Python%20Tricks%20%20The%20Book) )</p>
