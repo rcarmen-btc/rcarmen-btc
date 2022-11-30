@@ -5,7 +5,7 @@
 <h1 align="center">Hi 🌿</h1>
     
 </div>
-<h3 align="center">Student of School21</h3>
+<h3 align="center">Intern-engineer at Yandex</h3>
 
 - 🔭 I’m currently working on [workbot](https://gitlab.com/RiserLA/workbot/-/tree/master) (GitLab CI/CD, Docker, Python, Aiogram, CentOS on my own home server)
 
