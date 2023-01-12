@@ -7,7 +7,7 @@
 </div>
 <h3 align="center">DevOps at Yandex</h3>
 
-- 🔭 I’m currently working on [workbot](https://gitlab.com/RiserLA/workbot/-/tree/master) (GitLab CI/CD, Docker, Python, Aiogram, CentOS on my own home server)
+- 🔭 I’m currently working on [FinAPI](https://github.com/Fucktorial/FinAPI)
 
 - 🌱 I’m currently learning **FastAPI, Aiogram, Docker, GitLab CI/CD ect...**
 
