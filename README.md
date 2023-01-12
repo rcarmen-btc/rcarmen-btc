@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **FastAPI, Aiogram, Docker, GitLab CI/CD ect...**
 
-- 👯 I’m looking to collaborate on [workbot](https://gitlab.com/RiserLA/workbot/-/tree/master)
+- 👯 I’m looking to collaborate on idk...
 
 - 💬 Ask me about **meaning of life**
 
