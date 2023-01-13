@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [FinAPI](https://github.com/Fucktorial/FinAPI)
 
-- 🌱 I’m currently learning **FastAPI, Aiogram, Docker, GitLab CI/CD ect...**
+- 🌱 I’m currently learning **FastAPI, Aiogram, Docker, K8s, Jenkins and ect...**
 
 - 👯 I’m looking to collaborate on idk...
 
